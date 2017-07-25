@@ -1,0 +1,12 @@
+[alias]
+        co = checkout
+        b = branch
+        br = branch
+        s = status
+        st = status
+        c = commit -m
+        cim = commit -m
+        cam = commit -am
+        a = add
+        p = pull
+        pp = push
